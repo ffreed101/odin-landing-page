@@ -6,23 +6,7 @@ body {
 }
 
 .header {
-    background-color: #1f2937;
+    background-color: 
+    #1f2937;
     color: #F9FAF8;
-}
-
-.top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 8px 64px;
-}
-
-.logo {
-    font-size: 24px;
-}
-
-.links {
-    display: flex;
-    font-size: 18px;
-    gap: 12px;
 }
