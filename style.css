@@ -15,17 +15,17 @@ body {
 .top {
     display: flex;
     justify-content: space-between;
-    padding: 16px 15vw;
+    padding: 16px 18vw;
     align-items: center;
 }
 
 .links {
     display: flex;
-    gap: 16px;
+    gap: 24px;
 }
 
 .hero-secondary, .links {
-    font-size: 18px;
+    font-size: 17px;
     color: #e5e7eb;
 }
 
@@ -38,9 +38,9 @@ body {
 .head-content {
     display: flex;
     justify-content: space-between;
-    padding: 0 15vw;
+    padding: 0 18vw;
 
-    margin-top: 96px;
+    margin: 96px 0;
 }
 
 .site-info {
