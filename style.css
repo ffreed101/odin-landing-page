@@ -10,13 +10,12 @@ body {
     background-color: 
     #1f2937;
     color: #F9FAF8;
-
 }
 
 .top {
     display: flex;
-    justify-content: space-evenly;
-    padding: 16px;
+    justify-content: space-between;
+    padding: 16px 15vw;
     align-items: center;
 }
 
@@ -26,7 +25,7 @@ body {
 }
 
 .hero-secondary, .links {
-    font-size: 14px;
+    font-size: 18px;
     color: #e5e7eb;
 }
 
@@ -34,5 +33,48 @@ body {
     font-size: 24px;
     color: #f9faf8;
     font-weight: 900;
+}
+
+.head-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15vw;
+
+    margin-top: 96px;
+}
+
+.site-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 16px;
+    width: 460px;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight:bolder;
+}
+
+.button button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: bold;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.button {
+    padding: 0 0 20px 2px;
+    margin: 0;
+}
+
+.header-photo {
+    width: 460px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
 }
 
