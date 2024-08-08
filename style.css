@@ -90,7 +90,8 @@ body {
 .info .title {
     display: flex;
     justify-content: center;
-    margin: 36px 0;
+    margin: 36px 0; 
+    color: #1f2937;
 }
 
 .info .info-section {
@@ -114,4 +115,22 @@ body {
     border-radius: 18px;
     margin: 0;
     padding: 0;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 84px 18vw;
+}
+
+.quote {
+    font-style: italic;
+    font-weight: 100;
+    font-size: 36px;
+}
+
+.reference {
+    text-align: right;
+    font-weight: 800;
 }
