@@ -134,3 +134,31 @@ body {
     text-align: right;
     font-weight: 800;
 }
+
+.call-to-action {
+    background-color: #3882f6;
+    margin: 84px 18vw;
+    display: flex;
+    align-items: center;
+    padding: 48px 86px;
+    justify-content: space-between;
+    border-radius: 14px;
+}
+
+.message .subtext {
+    color: #e5e7eb;
+}
+
+.message .main-text {
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.cta-button button {
+    border: 2px solid white;
+    background-color: #3882f6;
+    padding: 5px 18px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+}
