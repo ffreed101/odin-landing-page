@@ -117,6 +117,10 @@ body {
     padding: 0;
 }
 
+.info-box p {
+    text-align: center;
+}
+
 .quote-section {
     background-color: #e5e7eb;
     display: flex;
