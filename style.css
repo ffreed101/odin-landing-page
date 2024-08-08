@@ -162,3 +162,10 @@ body {
     color: white;
     font-weight: 600;
 }
+
+.footer {
+    color:#e5e7eb;
+    background-color: #1f2937;
+    text-align: center;
+    padding: 36px 0;
+}
